@@ -6,43 +6,8 @@
 			"Visitor": ["Teleport"]
 		},
 		"Users": {
-			"majorvictory": "Admin",
+			"majorvictory": "Visitor",
 			"watchdragon": "Admin"
-		}
-	},
-
-	"Fish": {
-		"Largemouth Bass": {
-			"scientific name": "",
-			"difficulty": 4,
-			"weight": 100,
-			"category": 0,
-			"averageLength": 15,
-			"lengthVariance": 4.5,
-			"weightfactor": 1600,
-			"salinity": 1,
-			"speed": 3,
-			"depth": 3,
-			"visibility": 3,
-			"weather": 3,
-			"time": 15,
-			"special": 0
-		},
-		"Smallmouth Bass": {
-			"scientific name": "",
-			"difficulty": 2,
-			"weight": 80,
-			"category": 0,
-			"averageLength": 6,
-			"lengthVariance": 3,
-			"weightfactor": 1600,
-			"salinity": 1,
-			"speed": 1,
-			"depth": 1,
-			"visibility": 1,
-			"weather": 1,
-			"time": 1,
-			"special": 1
 		}
 	}
 }
